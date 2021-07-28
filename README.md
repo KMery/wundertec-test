@@ -1,4 +1,3 @@
-# Prueba técnica
 ## Intalación
 
     npm install
